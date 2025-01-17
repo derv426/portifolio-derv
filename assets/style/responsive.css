@@ -1,0 +1,32 @@
+
+
+@media screen and (max-width: 730px){
+  .user-you{
+    display: none;
+  }
+
+  .menu-icon{
+    position: relative;
+    right: 29px;
+  }
+
+  .text-contanct{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .text-contanct h1{
+    font-size: 1.5rem;
+  }
+
+
+  .title-sobre{
+    font-size: 0.6rem;
+  }
+
+  .quem-sou-img{
+    display: none;
+  }
+
+}
